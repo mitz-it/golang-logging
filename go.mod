@@ -1,4 +1,4 @@
-module gitlab.internal.cloud.payly.com.br/microservices/chassis/logging
+module github.com/mitz-it/golang-logging
 
 go 1.19
 
