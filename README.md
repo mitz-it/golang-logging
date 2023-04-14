@@ -1,5 +1,7 @@
 # Go - Logging
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mitz-it_golang-logging&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mitz-it_golang-logging) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=mitz-it_golang-logging&metric=coverage)](https://sonarcloud.io/summary/new_code?id=mitz-it_golang-logging)
+
 Abstraction over [zero](https://github.com/rs/zerolog) for logging.
 
 ## Installation
